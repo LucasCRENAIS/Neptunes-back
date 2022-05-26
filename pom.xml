@@ -13,11 +13,11 @@
     <groupId>io.ipme.neptunes</groupId>
     <artifactId>neptunes</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>demo spring</name>
-    <description>Demo project for Spring Boot</description>
+    <name>neptunes-app</name>
+    <description>blind test app project</description>
 
     <properties>
-        <java.version>11</java.version>
+<!--        <java.version>11</java.version>-->
         <sonar.organization>poec-java-clermont-2022</sonar.organization>
         <sonar.host.url>https://sonarcloud.io</sonar.host.url>
     </properties>
